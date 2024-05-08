@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/4QuickSort.dir/QuickSort.cpp.o -o 4QuickSort 

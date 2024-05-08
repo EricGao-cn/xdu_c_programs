@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec "/mnt/d/software/CLion 2023.3.3/bin/ttyfix" /bin/bash -c "export CLION_IDE=TRUE && export CMAKE_COLOR_DIAGNOSTICS=ON && export JETBRAINS_IDE=TRUE && cd '/mnt/e/202402-202406/C++Programs/23009200132/2LinkedList/cmake-build-debug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/e/202402-202406/C++Programs/23009200132/2LinkedList' -B '/mnt/e/202402-202406/C++Programs/23009200132/2LinkedList/cmake-build-debug'"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/e/202402-202406/C++Programs/23009200132/2LinkedList/cmake-build-debug

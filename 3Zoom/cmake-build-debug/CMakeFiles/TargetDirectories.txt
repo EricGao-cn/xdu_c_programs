@@ -1,0 +1,3 @@
+/mnt/e/202402-202406/C++Programs/23009200132/3Zoom/cmake-build-debug/CMakeFiles/Zoom.dir
+/mnt/e/202402-202406/C++Programs/23009200132/3Zoom/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/202402-202406/C++Programs/23009200132/3Zoom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

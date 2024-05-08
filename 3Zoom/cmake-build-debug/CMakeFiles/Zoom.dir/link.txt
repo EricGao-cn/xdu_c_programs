@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Zoom.dir/main.cpp.o CMakeFiles/Zoom.dir/utils.cpp.o -o Zoom 

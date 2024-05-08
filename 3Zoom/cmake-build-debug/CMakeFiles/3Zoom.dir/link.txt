@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/3Zoom.dir/main.cpp.o -o 3Zoom 
